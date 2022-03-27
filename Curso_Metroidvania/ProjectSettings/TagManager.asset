@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - SpikeSurrounding
+  - VirtualCamera
+  - CameraConfiner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Enemy
+  - Block
+  - Spike Surrounding
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3996551929
+    locked: 0
+  - name: Props
+    uniqueID: 3827909543
+    locked: 0
+  - name: Quest Item
+    uniqueID: 97653627
+    locked: 0
+  - name: Ground
+    uniqueID: 4156825057
+    locked: 0
+  - name: Spikes
+    uniqueID: 965415929
+    locked: 0
+  - name: Block
+    uniqueID: 609488001
+    locked: 0
+  - name: Characters
+    uniqueID: 3034620055
+    locked: 0
+  - name: PowerUps
+    uniqueID: 4165549621
+    locked: 0
+  - name: UI
+    uniqueID: 1930112713
+    locked: 0
